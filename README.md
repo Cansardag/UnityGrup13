@@ -2,6 +2,7 @@
 Takım İsmi: Unity Grup 13
 
 Takım Üyeleri:
+
 Can Emir Şardağ - Scrum Master
 
 Duygu Er - Product Manager
