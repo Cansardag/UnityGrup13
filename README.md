@@ -14,21 +14,31 @@ Doğa Döngel - Developer
 Burak Pişkin - Developer
 
 Oyun İsmi:
+
 Endless
 
 Oyun Açıklaması:
+
 Endless oyuncunun kendisini dalga dalga gelen düşmanlara karşı savunduğu ve her dalga sonunda güç kazanarak ilerleme kaydettiği bir Roguelike oyundur.
 
 Oyun Özellikleri:
+
 3D/2D
+
 Singleplayer
+
 Gameanalytics, veri işleme
+
 Drop ve Loot sistemi
 
 Hedef Kitle:
+
 Hem rekabetçi hem casual oyuncular
+
 +16 yaş kitlesi
+
 Fantezi ve Mitoloji severler
+
 PC Oyuncuları
 
 SPRINT 1:
@@ -38,5 +48,6 @@ SPRINT 1:
 Sprint Review:
 
 Görevler belirlenmiş, konu başlıkları tartışılmıştır. 
+
 Kişisel meşguliyetlerden ve aksaklıklardan ötürü ilk sprint bir üretim yapılmamış, gelecek sprintler adına planlama ve programlama yapılmıştır.
 
