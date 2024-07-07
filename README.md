@@ -2,11 +2,15 @@
 Takım İsmi: Unity Grup 13
 
 Takım Üyeleri:
--Can Emir Şardağ / Scrum Master
--Duygu Er / Product Manager
--Berkay Türkan / Developer
--Doğa Döngel / Developer
--Burak Pişkin / Developer
+Can Emir Şardağ - Scrum Master
+
+Duygu Er - Product Manager
+
+Berkay Türkan - Developer
+
+Doğa Döngel - Developer
+
+Burak Pişkin - Developer
 
 Oyun İsmi:
 Endless
