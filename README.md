@@ -1,5 +1,7 @@
 # UnityGrup13
-Takım İsmi: Unity Grup 13
+Takım İsmi: 
+
+Unity Grup 13
 
 Takım Üyeleri:
 
