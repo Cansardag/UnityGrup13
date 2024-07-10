@@ -58,7 +58,7 @@ PC Oyuncuları
 
 SPRINT 1:
 
-İlk sprint 50 puan olarak belirlenmiştir. Proje boyunca tamamlanması gereken toplam puan ise şu anlık 360 puan olarak belirlenmiştir. ilk sprintte hedefe ulaşılmıştır.
+İlk sprint 50 puan olarak belirlenmiştir. Proje boyunca tamamlanması gereken toplam puan ise şu anlık 360 puan olarak belirlenmiştir. ilk sprintte hedefin 35 Puanlık kısmına ulaşılmıştır.
 Ekip arkadaşlarımız ile birlikte whatsapp ve discord üzerinden iletişim sağlanmaktadır.
 
 Korku karakterimiz için yapay zeka kullanılarark geliştirilen karakter:
