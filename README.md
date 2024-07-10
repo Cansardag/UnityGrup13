@@ -148,7 +148,7 @@ Tamamlanmadı: 0 puan
 
 #### Sprint Planı
 
-[<img width="1208" alt="Ekran Resmi 2024-07-10 21 52 31" src="https://github.com/Cansardag/UnityGrup13/assets/155465635/87987760-ae6e-47f4-aad0-5379953ee799">](https://github.com/Cansardag/UnityGrup13/blob/main/IMAGES/Ekran%20görüntüsü%202024-07-10%20194109.png?raw=true)![image](https://github.com/Cansardag/UnityGrup13/assets/155465635/c5bffe75-e97a-4886-9d43-c78ca7dfdf04)
+[<img width="1208" alt="Ekran Resmi 2024-07-10 21 52 31" src="https://github.com/Cansardag/UnityGrup13/assets/155465635/87987760-ae6e-47f4-aad0-5379953ee799">]
 
 
 #### Hikaye Taslağı
