@@ -68,6 +68,8 @@ Korku karakterimiz için yapay zeka kullanılarark geliştirilen karakter:
 
 <img width="855" alt="Ekran Resmi 2024-07-10 01 10 55" src="https://github.com/Cansardag/UnityGrup13/assets/155465635/b2cef1e2-15ba-470c-a64a-ee838c2d2808">
 
+![WhatsApp Image 2024-07-10 at 11 46 12](https://github.com/Cansardag/UnityGrup13/assets/155465635/3c19929c-f17f-467e-8650-de47a29b8750)
+
 
 Sprint Retrospective:
 Ekip arkadaşlarımızın müsaitlik durumlarından dolayı, iletişim problemlerinden ötürü ve görev dağılımında yaşanan gecikmelerden ötürü ilk sprintte geride kalmış bulunmaktayız. Ancak bir sonraki sprintte özverili çalışarak bu sorunu aşacağız.
