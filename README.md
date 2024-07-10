@@ -149,17 +149,17 @@ Tamamlanmadı: 0 puan
 
 #### Sprint Planı
 
-![Sprint Planı](./images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-10%20181048.png)
+![Sprint Planı](./images/Ekran görüntüsü 2024-07-10 181048.png)
 
 #### Hikaye Taslağı
 
-![Hikaye Taslağı](./images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-10%20180931.png)
+![Hikaye Taslağı](./images/Ekran görüntüsü 2024-07-10 180931.png)
+
 
 #### Discord Tartışmaları
+![Discord Tartışmaları 1](./images/Ekran görüntüsü 2024-07-10 180756.png)
 
-![Discord Tartışmaları 1](./images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-10%20180756.png)
+![Discord Tartışmaları 2](./images/Ekran görüntüsü 2024-07-10 180823.png)
 
-![Discord Tartışmaları 2](./images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-10%20180823.png)
-
-![Discord Tartışmaları 3](./images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-10%20180919.png)
+![Discord Tartışmaları 3](./images/Ekran görüntüsü 2024-07-10 180919.png)
 
