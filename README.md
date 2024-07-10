@@ -153,7 +153,8 @@ Tamamlanmadı: 0 puan
 
 #### Hikaye Taslağı
 
-![Hikaye Taslağı](./images/Ekran görüntüsü 2024-07-10 180931.png)
+[![Hikaye Taslağı](./images/Ekran görüntüsü 2024-07-10 180931.png)](https://github.com/Cansardag/UnityGrup13/blob/main/IMAGES/Ekran%20görüntüsü%202024-07-10%20194126.png?raw=true)![image](https://github.com/Cansardag/UnityGrup13/assets/155465635/f6dbeb1c-bae5-4138-91d9-ea13b1689552)
+
 
 #### Discord Tartışmaları
 
