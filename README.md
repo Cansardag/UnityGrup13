@@ -78,6 +78,7 @@ Korku karakterimiz için yapay zeka kullanılarark geliştirilen karakter:
 Sprint Retrospective:
 Ekip arkadaşlarımızın müsaitlik durumlarından dolayı, iletişim problemlerinden ötürü ve görev dağılımında yaşanan gecikmelerden ötürü ilk sprintte geride kalmış bulunmaktayız. Ancak bir sonraki sprintte özverili çalışarak bu sorunu aşacağız.
 Sprint Review:
+Başlangıçta farklı bir oyun olarak düşünülmüş olsa da ekip arkadaşlarımızla birlikte aldığımız kararla korku ve gerilim oyunu yapmaya kara verildi.
 Görevler belirlenmiş, konu başlıkları tartışılmıştır. Oyun senaryosu ve işleyiş tarzı oluşturulmuş olup geliştirilmeye başlanmıştır.
 
 
