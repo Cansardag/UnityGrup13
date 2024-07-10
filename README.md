@@ -144,7 +144,6 @@ Tamamlanmadı: 0 puan
 
 - Ekip planlama ve programlama konusunda sıkıntılar çekti. İletişimsizlikler meydana geldi. Bu projeye başlangıcımızı geciktirdi ancak özveriyle bunun üstesinden geldik ve projemizi başlattık.
 
-
 ### Ekran Görüntüleri
 
 #### Sprint Planı
@@ -155,8 +154,8 @@ Tamamlanmadı: 0 puan
 
 ![Hikaye Taslağı](./images/Ekran görüntüsü 2024-07-10 180931.png)
 
-
 #### Discord Tartışmaları
+
 ![Discord Tartışmaları 1](./images/Ekran görüntüsü 2024-07-10 180756.png)
 
 ![Discord Tartışmaları 2](./images/Ekran görüntüsü 2024-07-10 180823.png)
