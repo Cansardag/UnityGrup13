@@ -148,7 +148,7 @@ Tamamlanmadı: 0 puan
 
 #### Sprint Planı
 
-![Sprint Planı](./images/Ekran görüntüsü 2024-07-10 181048.png)
+<img width="1208" alt="Ekran Resmi 2024-07-10 21 52 31" src="https://github.com/Cansardag/UnityGrup13/assets/155465635/87987760-ae6e-47f4-aad0-5379953ee799">
 
 #### Hikaye Taslağı
 
@@ -156,9 +156,17 @@ Tamamlanmadı: 0 puan
 
 #### Discord Tartışmaları
 
-![Discord Tartışmaları 1](./images/Ekran görüntüsü 2024-07-10 180756.png)
+<img width="1156" alt="Ekran Resmi 2024-07-10 01 06 20" src="https://github.com/Cansardag/UnityGrup13/assets/155465635/c3469c6c-0fae-40e3-92f4-61b0ca8bb8a5">
 
-![Discord Tartışmaları 2](./images/Ekran görüntüsü 2024-07-10 180823.png)
+
+<img width="1156" alt="Ekran Resmi 2024-07-10 01 07 21" src="https://github.com/Cansardag/UnityGrup13/assets/155465635/4679c29e-ac90-4637-a352-768ed8496d7a">
+
+blob:https://web.whatsapp.com/be79d3ad-a0da-47ba-b78b-a580bfd59777![image](https://github.com/Cansardag/UnityGrup13/assets/155465635/8ff8ec05-5f06-4796-af3b-b57e550a9155)
+blob:https://web.whatsapp.com/788e5d72-8753-47bd-8583-c61ce8b23ce9
+blob:https://web.whatsapp.com/253a8643-dac1-454d-bc00-867fe1ef5e79![image](https://github.com/Cansardag/UnityGrup13/assets/155465635/5783cbe4-a92f-4ed3-9060-307308837ae5)
+
+
+
 
 ![Discord Tartışmaları 3](./images/Ekran görüntüsü 2024-07-10 180919.png)
 
