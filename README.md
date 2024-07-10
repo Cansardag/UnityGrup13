@@ -25,11 +25,11 @@ Ana özellikler:
 
 
 ## Katkıda Bulunanlar
-- [Kullanıcı Adı](https://github.com/berkaytrkn) / Developer
-- [Kullanıcı Adı](https://github.com/Cansardag) / Scrum Master
-- [Kullanıcı Adı](https://github.com/Duyguru) / Product Manager
-- [Kullanıcı Adı](https://github.com/dogadongel) / Developer
-- [Kullanıcı Adı](https://github.com/reinhpash) / Developer
+- [Berkay Türkan](https://github.com/berkaytrkn) / Developer
+- [Can Şardağ](https://github.com/Cansardag) / Scrum Master
+- [Duygu Er](https://github.com/Duyguru) / Product Manager
+- [Doğa Döngel](https://github.com/dogadongel) / Developer
+- [Burak Pişkin](https://github.com/reinhpash) / Developer
 
 
 
