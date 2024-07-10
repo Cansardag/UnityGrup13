@@ -69,6 +69,10 @@ Korku karakterimiz için yapay zeka kullanılarark geliştirilen karakter:
 <img width="855" alt="Ekran Resmi 2024-07-10 01 10 55" src="https://github.com/Cansardag/UnityGrup13/assets/155465635/b2cef1e2-15ba-470c-a64a-ee838c2d2808">
 
 ![WhatsApp Image 2024-07-10 at 11 46 12](https://github.com/Cansardag/UnityGrup13/assets/155465635/3c19929c-f17f-467e-8650-de47a29b8750)
+![WhatsApp Image 2024-07-10 at 11 46 11 (1)](https://github.com/Cansardag/UnityGrup13/assets/155465635/1c1415b0-c1d3-4f25-b2f3-27c77440c6da)
+![WhatsApp Image 2024-07-10 at 11 46 11](https://github.com/Cansardag/UnityGrup13/assets/155465635/83dc1499-a595-490a-b039-3a8d6f1073f6)
+![WhatsApp Image 2024-07-10 at 11 46 12 (1)](https://github.com/Cansardag/UnityGrup13/assets/155465635/f1fb46ed-5e8d-4909-96ca-5f617fca6676)
+
 
 
 Sprint Retrospective:
