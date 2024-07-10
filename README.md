@@ -169,8 +169,9 @@ https://github.com/Cansardag/UnityGrup13/blob/main/IMAGES/Ekran%20görüntüsü%
 (https://github.com/Cansardag/UnityGrup13/assets/155465635/8ff8ec05-5f06-4796-af3b-b57e550a9155)
 (https://github.com/Cansardag/UnityGrup13/assets/155465635/5783cbe4-a92f-4ed3-9060-307308837ae5)
 
+https://github.com/Cansardag/UnityGrup13/blob/main/IMAGES/Ekran%20görüntüsü%202024-07-10%20194143.png?raw=true![image](https://github.com/Cansardag/UnityGrup13/assets/155465635/7d2f86a9-d880-47cc-b817-cb108b6023c3)
 
 
 
-![Discord Tartışmaları 3](./images/Ekran görüntüsü 2024-07-10 180919.png)
+
 
