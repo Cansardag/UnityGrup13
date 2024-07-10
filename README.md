@@ -58,14 +58,15 @@ PC Oyuncuları
 
 SPRINT 1:
 
-İlk sprint 50 puan olarak belirlenmiştir. Proje boyunca tamamlanması gereken toplam puan ise şu anlık 360 puan olarak belirlenmiştir. ilk sprintte hedefin 35 Puanlık kısmına ulaşılmıştır.
+
 Ekip arkadaşlarımız ile birlikte whatsapp ve discord üzerinden iletişim sağlanmaktadır.
 
 Korku karakterimiz için yapay zeka kullanılarark geliştirilen karakter:
 ![image](https://github.com/Cansardag/UnityGrup13/assets/155465635/6af579b9-ddb3-435b-85a3-846249ae8b9c)
 <img width="1156" alt="Ekran Resmi 2024-07-10 01 07 21" src="https://github.com/Cansardag/UnityGrup13/assets/155465635/57acf97f-0d40-4862-b5e4-eb7554f75265">
 
-
+Sprint Board:
+İlk sprint 60 puan olarak belirlenmiştir. Proje boyunca tamamlanması gereken toplam puan ise şu anlık 360 puan olarak belirlenmiştir. Puanlama mantığımız tamamlananlar için 25, yapılmakta olanlar için 10 ve yapılacaklar için 5'tir. Şu anda ilk sprintte hedefin 40 Puanlık kısmına ulaşılmıştır.
 <img width="855" alt="Ekran Resmi 2024-07-10 01 10 55" src="https://github.com/Cansardag/UnityGrup13/assets/155465635/b2cef1e2-15ba-470c-a64a-ee838c2d2808">
 
 ![WhatsApp Image 2024-07-10 at 11 46 12](https://github.com/Cansardag/UnityGrup13/assets/155465635/3c19929c-f17f-467e-8650-de47a29b8750)
