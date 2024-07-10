@@ -163,6 +163,9 @@ Tamamlanmadı: 0 puan
 
 <img width="1156" alt="Ekran Resmi 2024-07-10 01 07 21" src="https://github.com/Cansardag/UnityGrup13/assets/155465635/4679c29e-ac90-4637-a352-768ed8496d7a">
 
+https://github.com/Cansardag/UnityGrup13/blob/main/IMAGES/Ekran%20görüntüsü%202024-07-10%20194136.png?raw=true![image](https://github.com/Cansardag/UnityGrup13/assets/155465635/04cd06ac-e8f4-4b93-81ef-2db2e4fbad87)
+
+
 (https://github.com/Cansardag/UnityGrup13/assets/155465635/8ff8ec05-5f06-4796-af3b-b57e550a9155)
 (https://github.com/Cansardag/UnityGrup13/assets/155465635/5783cbe4-a92f-4ed3-9060-307308837ae5)
 
