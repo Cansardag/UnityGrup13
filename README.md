@@ -214,7 +214,7 @@ https://github.com/Cansardag/UnityGrup13/blob/main/IMAGES/Ekran%20görüntüsü%
 
 - Oyuncu girdilerini ve karakter hareketini daha iyi yönetmeyi öğrendik
 
-- Gelecek Eylemler
+### Gelecek Eylemler:
 
 - Ana Düşmanı oyuna entegre etmek
 
