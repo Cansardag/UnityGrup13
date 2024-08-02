@@ -175,3 +175,114 @@ https://github.com/Cansardag/UnityGrup13/blob/main/IMAGES/Ekran%20görüntüsü%
 
 
 
+
+
+
+# Sprint Review ve Sprint Retrospective
+
+## Sprint Review - 3
+
+
+**Sprint Review Tarihi:** 31 Temmuz 2024
+
+**Sprint Hedefleri:**
+
+- Envanter sistemi oluşturma ve eşya ekleme.
+
+- Unity'de düşman karakter ekleme ve animasyonları düzenleme.
+
+- Oyuna açılış ekranı ve hikaye ekranları ekleme.
+
+- Oyundaki ışıklandırma ve efektleri iyileştirme.
+
+- Çeşitli bug ve hataları düzeltme.
+
+
+
+**Tamamlanan Çalışmalar:**
+
+1. **Envanter Sistemi:**
+
+   - Envanter UI oluşturuldu.
+
+   - Flashlight ve anahtar gibi eşyalar envantere eklendi.
+
+   - Eşyaları almak ve kullanmak için gerekli scriptler yazıldı.
+
+
+
+2. **Düşman Karakter:**
+
+   - Düşman karakterin model ve animasyonları eklendi.
+
+   - Düşman karakterin oyuncuyu takip etmesi ve saldırı animasyonları düzenlendi.
+
+
+3. **Açılış ve Hikaye Ekranları:**
+
+   - Açılış ekranı oluşturuldu ve start butonu eklendi.
+
+   - Hikaye ekranları oluşturuldu ve devam butonları ile geçiş sağlandı.
+
+
+
+4. **Işıklandırma ve Efektler:**
+
+   - Global Volume ve Post-Processing efektleri ile oyun sahnesindeki ışıklandırma iyileştirildi.
+
+   - Oyun atmosferini karanlık ve korkutucu hale getirmek için gerekli ayarlamalar yapıldı.
+
+
+
+5. **Hata Düzeltmeleri:**
+
+   - Çeşitli kod hataları düzeltildi ve scriptler güncellendi.
+
+   - GitHub yükleme ve çıktı alma işlemleri düzenlendi.
+
+
+**Gelecek Sprint İçin Öneriler:**
+
+- Düşman AI'sını daha karmaşık hale getirmek ve gizlenme mekanikleri eklemek.
+
+- Envanter sistemi ile daha fazla eşya eklemek ve kullanımı çeşitlendirmek.
+
+- Oyun mekanikleri ve seviyeleri iyileştirmek.
+
+- Oyunun genel performansını ve optimizasyonunu artırmak.
+
+
+## Sprint Retrospective
+
+**Sprint Retrospective Tarihi:** 31 Temmuz 2024
+
+**Neler İyi Gitti:**
+
+- Envanter sistemi başarıyla oluşturuldu ve eşyalar eklendi.
+
+- Düşman karakter ve animasyonları oyuna entegre edildi.
+
+- Açılış ve hikaye ekranları kullanıcı dostu şekilde oluşturuldu.
+
+- Işıklandırma ve efektlerde önemli iyileştirmeler yapıldı.
+
+- Hatalar hızlıca tespit edilip düzeltildi.
+
+
+**Neler İyileştirilebilir:**
+- Kod entegrasyonunda zaman zaman çakışmalar yaşandı, bu süreç daha verimli hale getirilmeli.
+
+- İletişim ve koordinasyon daha etkili olmalı, böylece gereksiz zaman kaybı önlenmeli.
+
+- Daha detaylı ve adım adım kılavuzlar hazırlanarak, geliştirme süreci daha sistematik hale getirilmeli.
+
+**Öneriler:**
+
+- Kod entegrasyonu için daha sıkı bir kod inceleme süreci uygulanmalı.
+
+- Günlük stand-up toplantıları ile ekip içi iletişim güçlendirilmeli.
+
+- Teknik borçlar ve iyileştirme fırsatları belirlenerek bir yol haritası oluşturulmalı.
+
+
+
