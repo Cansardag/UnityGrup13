@@ -26,11 +26,7 @@ Ana özellikler:
 
 
 ## Katkıda Bulunanlar
-- [Berkay Türkan](https://github.com/berkaytrkn) / Developer
-- [Can Şardağ](https://github.com/Cansardag) / Scrum Master
-- [Duygu Er](https://github.com/Duyguru) / Product Manager
-- [Doğa Döngel](https://github.com/dogadongel) / Developer
-- [Burak Pişkin](https://github.com/reinhpash) / Developer
+- [Can Şardağ](https://github.com/Cansardag) / Scrum Master / Product Owner / Developer 
 
 
 
@@ -281,6 +277,11 @@ https://github.com/Cansardag/UnityGrup13/blob/main/IMAGES/Ekran%20görüntüsü%
 - Kod entegrasyonu için daha sıkı bir kod inceleme süreci uygulanmalı.
 
 - Günlük stand-up toplantıları ile ekip içi iletişim güçlendirilmeli.
+
+
+**Neler Kötü Gitti:**
+
+- Takım üyeleri projeyle ilgilenmedi, kimse görevini yerine getirmedi. 5 Kişiyle başlayan bu proje 1 kişi ile bitmiştir. Üstesinden gelindi.
 
 - Teknik borçlar ve iyileştirme fırsatları belirlenerek bir yol haritası oluşturulmalı.
 
