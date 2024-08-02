@@ -1,4 +1,4 @@
-# MINDSCAPE INSTITUTE
+# Code of Shadows
 
 # UnityGrup13 - FPS/Korku Oyunu
 Bu proje, bir FPS/Korku türünde oyun olup, Oyun ve Uygulama Akademisi Bootcamp'i için hazırlanmıştır.
@@ -30,6 +30,7 @@ Ana özellikler:
 - [Can Şardağ](https://github.com/Cansardag) / Scrum Master
 - [Duygu Er](https://github.com/Duyguru) / Product Manager
 - [Doğa Döngel](https://github.com/dogadongel) / Developer
+- [Burak Pişkin](https://github.com/reinhpash) / Developer
 
 
 
@@ -170,148 +171,6 @@ https://github.com/Cansardag/UnityGrup13/blob/main/IMAGES/Ekran%20görüntüsü%
 
 https://github.com/Cansardag/UnityGrup13/blob/main/IMAGES/Ekran%20görüntüsü%202024-07-10%20194143.png?raw=true![image](https://github.com/Cansardag/UnityGrup13/assets/155465635/7d2f86a9-d880-47cc-b817-cb108b6023c3)
 
-
-
-
-
-
-
-
-
-
-## SPRINT RAPORU:002
-
-8 Temmuz - 21 Temmuz 2024
-
-### Sprint Hedefleri:
-
-- Temel hareket mekaniğini uygulamak
-
-- Temel seviye tasarımını oluşturmak
-
-- Menü Tasarımı ve Menü Interaksiyonu
-
-- Düşman için ilk yapay zeka davranışlarını entegre etmek
-
-### Tamamlananlar:
-
-- Yürüme ve koşma mekaniği ile karakter hareket sistemi tamamlandı
-
-- Odalar ve koridorlarla temel seviye düzeni oluşturuldu
-
-- Menü Tasarımı ve Interaksiyonu tamamlandı
-
-
-### Zorluklar:
-
-- Karakter kontrolcüsünün girdilere doğru tepki vermemesiyle ilgili başlangıç sorunları, interaksiyon hataları
-
-- Ana Düşman ve Yapay Zeka entegrasyonunda karışıklık
-
-### Öğrenilenler:
-
-- Interaksiyon sistemini daha iyi anladık
-
-- Oyuncu girdilerini ve karakter hareketini daha iyi yönetmeyi öğrendik
-
-### Gelecek Eylemler:
-
-- Ana Düşmanı oyuna entegre etmek
-
-- Yapay Zeka entegrasyonu
-
-- Puzzle eklentisi
-
-- Temel eşya etkileşim sistemini geliştirmek (örneğin; fenerleri almak, kapıları açmak)
-
-- Atmosfer için ses efektleri ve arka plan müziği eklemek
-
-
-## Puanlama Sistemi
-
-Zaman Tahmini (Saat)
-
-1-2 saat: 1 puan
-
-2-4 saat: 2 puan
-
-4-8 saat: 3 puan
-
-8+ saat: 5 puan
-
-## Zorluk Derecesi
-
-Kolay: 1 puan
-
-Orta: 2 puan
-
-Zor: 3 puan
-
-## Görev Tamamlanma Durumu
-
-Tamamlandı: 1 puan
-
-Tamamlanmadı: 0 puan
-
-
-### Tamamlanan İşler
-
-1. Temel hareket mekaniğini uygulamak
-   
-- **Zaman Tahmini**: 4-6 saat (3 puan)
-   
-- **Zorluk Derecesi**: Zor (3 puan)
-   
-- **Tamamlanma Durumu**: Tamamlandı (1 puan)
-   
-- **Toplam Puan**: 3 + 3 + 1 = 7 puan
-
-2. Temel seviye tasarımını oluşturmak
-   
-- **Zaman Tahmini**: 5 saat (3 puan)
-   
-- **Zorluk Derecesi**: Orta (2 puan)
-   
-- **Tamamlanma Durumu**: Tamamlandı (1 puan)
-   
-- **Toplam Puan**: 3 + 2 + 1 = 6 puan
-
-3. Menü Tasarımı ve Menü Interaksiyonu
-   
-- **Zaman Tahmini**: 4 saat (2 puan)
-   
-- **Zorluk Derecesi**: Orta (2 puan)
-   
-- **Tamamlanma Durumu**: Tamamlandı (1 puan)
-   
-- **Toplam Puan**: 2 + 2 + 1 = 5 puan
-
-3. Düşman için ilk yapay zeka davranışlarını entegre etmek
-   
-- **Zaman Tahmini**: 6 saat (2 puan)
-   
-- **Zorluk Derecesi**: Zor (3 puan)
-   
-- **Tamamlanma Durumu**: Tamamlanmadı (0 puan)
-   
-- **Toplam Puan**: 0 puan
-
-
-
-
-### Gelecek Sprint için Planlar
-
-- Ana Düşman Entegrasyonu
-
-- Yapay Zeka Eklentisi
-
-- Ses Efektlerinin Eklenmesi
-
-- Oyun Mekaniklerinin Güncellenmesi
-
-### Engeller ve Zorluklar
-
-- Planlamaları aksatacak zaman sıkıntıları yaşadık, grubumuzdan ayrılan üye oldu ve iş düzenimiz aksadı ancak bu durumu ve aksaklıkları bundan motivasyon alarak aştık. Projemize tam gaz devam etmekteyiz. Son sprint bizim en iyi sprintimiz olacak buna inanıyoruz.
 
 
 

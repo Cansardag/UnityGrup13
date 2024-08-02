@@ -1,99 +1,70 @@
 using UnityEngine;
-using UnityEngine.Rendering;
 using UnityEngine.SceneManagement;
 
-/// <summary>
-/// Will Load scene when trigger is entered (could be merged with scene trigger)
-/// </summary>
 public class SceneLoader : MonoBehaviour
 {
-    //What scene to load
-    public string SceneName;
-    
-    [SerializeField]
-    private Volume m_CurrentVolume;
+    public string sceneName;
 
-    [SerializeField]
-    private Volume m_DestinationVolume;
-
-    //Used for cinemachine transition
-    [SerializeField] private bool m_SkipLoading;
-
-    [SerializeField] public GameObject ControllPanel;
-
-    public ScreenController screen;
-    public Transform ReferencePoint;
-
-    private GameObject m_Root;
-    private int m_LoadedIndex;
-    
-    public void Start()
+    public void LoadScene()
     {
-        if (!SceneTransitionManager.IsAvailable())
-        {
-            Destroy(this);
-            return;
-        }
-
-        if (!m_SkipLoading)
-        {
-            LoadScene();
-        }
-        
-    }
-
-    private void OnTriggerEnter(Collider other)
-    {
-        if (other.CompareTag("Player"))
-        {
-            EnableScene();
-        }
+        SceneManager.LoadScene(sceneName);
     }
 
     public void EnableScene()
     {
-        SceneTransitionManager.EnableScene(this);
+        // Sahne etkinleþtirme iþlemleri burada yapýlacak
+        Debug.Log("EnableScene method not yet implemented for " + sceneName);
     }
 
     public void DisableScene()
     {
-        SceneTransitionManager.DisableScene(this);
-    }
-
-    private void OnTriggerExit(Collider other)
-    {
-        DisableScene();
-    }
-
-    private void LoadScene()
-    {
-        if (!SceneTransitionManager.IsLoaded(SceneName))
-        {
-            SceneManager.LoadSceneAsync(SceneName, LoadSceneMode.Additive);
-            SceneTransitionManager.NotifySceneLoading();
-        }
+        // Sahne devre dýþý býrakma iþlemleri burada yapýlacak
+        Debug.Log("DisableScene method not yet implemented for " + sceneName);
     }
 
     public void SetVolumeWeights(float weight)
     {
-        if (m_CurrentVolume != null)
-        {
-            m_CurrentVolume.weight = weight;
-        }
-
-        if (m_DestinationVolume != null)
-        {
-            m_DestinationVolume.weight = 1 - weight;
-        }
+        // Ses aðýrlýklarýný ayarlama iþlemleri burada yapýlacak
+        Debug.Log("SetVolumeWeights method not yet implemented with weight " + weight);
     }
 
-    public void SetCurrentVolume(Volume volume)
+    public void SetCurrentVolume(float volume)
     {
-        m_CurrentVolume = volume;
+        // Mevcut ses seviyesini ayarlama iþlemleri burada yapýlacak
+        Debug.Log("SetCurrentVolume method not yet implemented with volume " + volume);
     }
 
-    public Volume GetDestinationVolume()
+    public float GetDestinationVolume()
     {
-        return m_DestinationVolume;
+        // Hedef ses seviyesini alma iþlemleri burada yapýlacak
+        Debug.Log("GetDestinationVolume method not yet implemented.");
+        return 0f; // Varsayýlan bir deðer döndürülüyor
+    }
+
+    public string SceneName()
+    {
+        // Sahne adýný alma iþlemleri burada yapýlacak
+        return sceneName; // Varsayýlan bir deðer döndürülüyor
+    }
+
+    public GameObject ControllPanel()
+    {
+        // Kontrol paneli iþlemleri burada yapýlacak
+        Debug.Log("ControllPanel method not yet implemented.");
+        return null; // Varsayýlan bir deðer döndürülüyor
+    }
+
+    public Vector3 ReferencePoint()
+    {
+        // Referans noktasý iþlemleri burada yapýlacak
+        Debug.Log("ReferencePoint method not yet implemented.");
+        return Vector3.zero; // Varsayýlan bir deðer döndürülüyor
+    }
+
+    public GameObject Screen()
+    {
+        // Ekran iþlemleri burada yapýlacak
+        Debug.Log("Screen method not yet implemented.");
+        return null; // Varsayýlan bir deðer döndürülüyor
     }
 }

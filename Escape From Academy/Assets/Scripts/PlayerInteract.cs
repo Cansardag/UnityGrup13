@@ -1,58 +1,62 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerInteract : MonoBehaviour
 {
-    [Header("Control")]
-    [SerializeField] private bool canInteract = true;
-    [SerializeField] private KeyCode interactKey = KeyCode.E;
-    [SerializeField] private Camera playerCamera;
-
-    [Header("Settings")]
-    [SerializeField] private Vector3 interactionRayPoint = default;
-    [SerializeField] private float interactionDistance = default;
-    [SerializeField] private LayerMask interactableLayer = default;
+    public float interactRange = 3f;
+    public LayerMask interactableLayer;
+    private Camera playerCamera;
     private Interactable currentInteractable;
 
-    private Transform HandPosition;
-
-    private void Update()
+    void Start()
     {
-        if (!canInteract)
-            return;
-
-        HandleInteractionCheck();
-        HandleInteractionInput();
+        playerCamera = Camera.main;
     }
 
-    private void HandleInteractionCheck()
+    void Update()
     {
-        if (Physics.Raycast(playerCamera.ViewportPointToRay(interactionRayPoint), out RaycastHit hit, interactionDistance))
+        CheckForInteractable();
+        if (Input.GetKeyDown(KeyCode.E))
         {
-            if (hit.collider.gameObject.layer == 13 && (currentInteractable == null || hit.collider.GetInstanceID() != currentInteractable.GetInstanceID()))
+            Interact();
+        }
+    }
+
+    void CheckForInteractable()
+    {
+        Ray ray = playerCamera.ScreenPointToRay(Input.mousePosition);
+        RaycastHit hit;
+
+        if (Physics.Raycast(ray, out hit, interactRange, interactableLayer))
+        {
+            Interactable interactable = hit.collider.GetComponent<Interactable>();
+            if (interactable != null)
             {
-                hit.collider.TryGetComponent(out currentInteractable);
-
-                if (currentInteractable != null)
-                    currentInteractable.OnFocus();
-
+                if (interactable != currentInteractable)
+                {
+                    if (currentInteractable != null)
+                    {
+                        currentInteractable.OnLoseFocus();
+                    }
+                    currentInteractable = interactable;
+                    interactable.OnFocus();
+                }
             }
         }
-        else if (currentInteractable)
+        else
         {
-            currentInteractable.OnLoseFocus();
-            currentInteractable = null;
+            if (currentInteractable != null)
+            {
+                currentInteractable.OnLoseFocus();
+                currentInteractable = null;
+            }
         }
     }
 
-    private void HandleInteractionInput()
+    void Interact()
     {
-        if (Input.GetKeyDown(interactKey) && currentInteractable != null && 
-            Physics.Raycast(playerCamera.ViewportPointToRay(interactionRayPoint), out RaycastHit hit, interactionDistance,interactableLayer))
+        if (currentInteractable != null)
         {
             currentInteractable.OnInteract();
         }
     }
-
 }
