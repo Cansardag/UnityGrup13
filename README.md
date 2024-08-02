@@ -1,4 +1,6 @@
-# Code of Shadows
+# MINDSCAPE INSTITUTE
+
+
 
 # UnityGrup13 - FPS/Korku Oyunu
 Bu proje, bir FPS/Korku türünde oyun olup, Oyun ve Uygulama Akademisi Bootcamp'i için hazırlanmıştır.
