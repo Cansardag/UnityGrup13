@@ -30,6 +30,12 @@ Ana özellikler:
 ## Katkıda Bulunanlar
 - [Can Şardağ](https://github.com/Cansardag) / Scrum Master / Product Owner / Developer 
 
+- [Berkay Türkan](https://github.com/berkaytrkn)
+
+- [Doğa Döngel](https://github.com/dogadongel)
+
+- [Duygu Er](https://github.com/Duyguru)
+
 
 
 ## Lisans
